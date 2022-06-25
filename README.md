@@ -3,7 +3,7 @@ Hi, i'm Daniel Ngwasi, a passionate self-taught full stack web developer and a f
 
 I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I really love how collaboration and knowledge sharing happened through open-source.
 
-
+[:heart: Sponsor](https://github.com/sponsors/laike9m)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/daniel.ngwasi.9/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-n-29924a69/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ngwasidaniel) 
